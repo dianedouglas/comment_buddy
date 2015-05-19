@@ -1,0 +1,5 @@
+name = Comment Buddy
+description = Display silly messages whenever a user comments.
+package = Epicodus Examples
+core = 7.x
+files[] = comment_buddy.module
